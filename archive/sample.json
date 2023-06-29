@@ -1,0 +1,58 @@
+[
+    {
+        "title": "COVID-19 Vaccines Rollout",
+        "description": "The global effort to administer COVID-19 vaccines to the population.",
+        "entities": [
+            {"name": "COVID-19", "type": "DISEASE", "metadata": {}, "salience": 0.5},
+            {"name": "vaccines", "type": "DRUG", "metadata": {}, "salience": 0.3},
+            {"name": "population", "type": "PERSON", "metadata": {}, "salience": 0.2}
+        ]
+    },
+    {
+        "title": "Climate Change Summit",
+        "description": "World leaders gather to address the pressing issue of climate change.",
+        "entities": [
+            {"name": "climate change", "type": "EVENT", "metadata": {}, "salience": 0.4},
+            {"name": "world leaders", "type": "PERSON", "metadata": {}, "salience": 0.3},
+            {"name": "pressing issue", "type": "OTHER", "metadata": {}, "salience": 0.3}
+        ]
+    },
+    {
+        "title": "Space Exploration Mission",
+        "description": "NASA launches a mission to explore Mars and search for signs of life.",
+        "entities": [
+            {"name": "NASA", "type": "ORGANIZATION", "metadata": {}, "salience": 0.4},
+            {"name": "mission", "type": "OTHER", "metadata": {}, "salience": 0.3},
+            {"name": "Mars", "type": "LOCATION", "metadata": {}, "salience": 0.2},
+            {"name": "signs of life", "type": "OTHER", "metadata": {}, "salience": 0.1}
+        ]
+    },
+    {
+        "title": "Economic Growth Forecast",
+        "description": "Experts predict a strong economic growth in the coming year.",
+        "entities": [
+            {"name": "economic growth", "type": "OTHER", "metadata": {}, "salience": 0.5},
+            {"name": "experts", "type": "PERSON", "metadata": {}, "salience": 0.4},
+            {"name": "coming year", "type": "OTHER", "metadata": {}, "salience": 0.1}
+        ]
+    },
+    {
+        "title": "Technology Innovation Awards",
+        "description": "Leading tech companies receive recognition for their innovative products.",
+        "entities": [
+            {"name": "technology", "type": "OTHER", "metadata": {}, "salience": 0.4},
+            {"name": "innovation", "type": "OTHER", "metadata": {}, "salience": 0.3},
+            {"name": "tech companies", "type": "ORGANIZATION", "metadata": {}, "salience": 0.2},
+            {"name": "innovative products", "type": "OTHER", "metadata": {}, "salience": 0.1}
+        ]
+    },
+    {
+        "title": "Political Election Results",
+        "description": "The election results are announced, revealing the new political leaders.",
+        "entities": [
+            {"name": "political", "type": "OTHER", "metadata": {}, "salience": 0.3},
+            {"name": "election results", "type": "EVENT", "metadata": {}, "salience": 0.3},
+            {"name": "new political leaders", "type": "PERSON", "metadata": {}, "salience": 0.4}
+        ]
+    }
+]
